@@ -2,7 +2,7 @@ package S4_EstruturaSequencial;
 
 import java.util.Locale;
 
-public class S4_23_2ExercicioFixacao {
+public class S4_23_2__ExercicioFixacao {
     
     public static void main(String[] args) {
 

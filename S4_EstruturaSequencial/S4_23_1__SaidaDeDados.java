@@ -2,7 +2,7 @@ package S4_EstruturaSequencial;
 
 import java.util.Locale;
 
-public class S4_23_1SaidaDeDados {
+public class S4_23_1__SaidaDeDados {
     
     public static void main (String[] args) {
         

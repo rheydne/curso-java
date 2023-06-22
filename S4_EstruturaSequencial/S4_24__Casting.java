@@ -1,6 +1,6 @@
 package S4_EstruturaSequencial;
 
-public class S4_24_Casting {
+public class S4_24__Casting {
     
     public static void main(String[] args) {
         
