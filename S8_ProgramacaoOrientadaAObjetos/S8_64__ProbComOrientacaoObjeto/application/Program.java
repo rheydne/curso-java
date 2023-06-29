@@ -28,8 +28,8 @@ public class Program {
         y.b = sc.nextDouble();
         y.c = sc.nextDouble();
 
-        area1 = x.CalculoArea(x);
-        area2 = y.CalculoArea(y);
+        area1 = x.CalculoArea();
+        area2 = y.CalculoArea();
 
         System.out.printf("Triangle X area: %.4f%n", area1);
         System.out.printf("Triangle Y area: %.4f%n", area2);
