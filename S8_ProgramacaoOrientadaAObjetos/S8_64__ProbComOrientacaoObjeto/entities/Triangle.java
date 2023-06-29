@@ -6,21 +6,13 @@ public class Triangle {
     public double b;
     public double c;
 
-    public double CalculoArea(Triangle triangle) {
-        
-        double p = CalculoP(triangle);
+    public double CalculoArea() {
+        double p = (a + b + c) / 2;
         double area = Math.sqrt((p * (p - a) * (p - b) * (p - c)));
         return area;
     }
 
-    public double CalculoP(Triangle triangle) {
-        
-        double p = (a + b + c) / 2;
-        return p;
-    }
-
     public char MaiorTriangulo(double a, double b) {
-
         if (a > b)
             return 'X';
         else
