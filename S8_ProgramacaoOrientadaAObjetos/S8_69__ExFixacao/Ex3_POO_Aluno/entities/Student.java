@@ -43,7 +43,12 @@ public class Student {
         this.grade += grade;
     }
 
-    public String passOrNot() {
+    public String finalGrade() {
+        return "FINAL GRADE = "
+            + String.format("%.2f", getGrade());
+    }
+
+    public String passOrNotPass() {
         if(grade >= 60) {
             return "PASS";
         }

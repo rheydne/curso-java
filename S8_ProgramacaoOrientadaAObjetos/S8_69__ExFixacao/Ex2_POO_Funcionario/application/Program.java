@@ -21,11 +21,11 @@ public class Program {
         Employee employee = new Employee();
 
         System.out.print("Name: ");
-        employee.name(sc.nextLine());
+        employee.setName(sc.nextLine());
         System.out.print("Gross Salary: ");
-        employee.glossSalary(sc.nextDouble());
+        employee.setGrossSalary(sc.nextDouble());
         System.out.print("Tax: ");
-        employee.tax(sc.nextDouble());
+        employee.setTax(sc.nextDouble());
 
         System.out.printf("%nEmployee: %s%n%n", employee.toString());
 
