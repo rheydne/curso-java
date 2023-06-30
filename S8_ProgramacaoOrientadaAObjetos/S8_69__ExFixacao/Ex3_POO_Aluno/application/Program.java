@@ -25,8 +25,8 @@ public class Program {
         student.sumGrade(sc.nextDouble());
         student.sumGrade(sc.nextDouble());
 
-        System.out.println("FINAL GRADE = " + String.format("%.2f", student.getGrade()));
-        System.out.println(student.passOrNot());
+        System.out.println(student.finalGrade());
+        System.out.println(student.passOrNotPass());
 
         sc.close();
     }
