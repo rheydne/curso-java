@@ -1,5 +1,4 @@
 package S8_ProgramacaoOrientadaAObjetos.S8_66__POO_toString.entities;
-import java.util.Objects;
 
 public class Product {
     
