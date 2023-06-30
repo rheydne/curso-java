@@ -10,9 +10,9 @@ public class Employee {
     public Employee() {
     }
 
-    public Employee(String name, double glossSalary, double tax) {
+    public Employee(String name, double grossSalary, double tax) {
         this.name = name;
-        this.grossSalary = glossSalary;
+        this.grossSalary = grossSalary;
         this.tax = tax;
     }
 
@@ -28,8 +28,8 @@ public class Employee {
         return this.grossSalary;
     }
 
-    public void setGrossSalary(double glossSalary) {
-        this.grossSalary = glossSalary;
+    public void setGrossSalary(double grossSalary) {
+        this.grossSalary = grossSalary;
     }
 
     public double getTax() {
@@ -45,8 +45,8 @@ public class Employee {
         return this;
     }
 
-    public Employee glossSalary(double glossSalary) {
-        setGrossSalary(glossSalary);
+    public Employee grossSalary(double grossSalary) {
+        setGrossSalary(grossSalary);
         return this;
     }
 
