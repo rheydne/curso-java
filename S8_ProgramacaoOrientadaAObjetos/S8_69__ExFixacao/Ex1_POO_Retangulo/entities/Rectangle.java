@@ -5,7 +5,6 @@ public class Rectangle {
     double width;
     double height;
 
-
     public Rectangle() {
     }
 

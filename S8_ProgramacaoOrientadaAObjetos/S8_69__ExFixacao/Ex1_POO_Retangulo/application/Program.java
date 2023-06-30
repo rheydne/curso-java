@@ -21,8 +21,8 @@ public class Program {
 
         System.out.println("Enter rectangle width and height:");
 
-        rectangle.height(sc.nextDouble());
-        rectangle.width(sc.nextDouble());
+        rectangle.setHeight(sc.nextDouble());
+        rectangle.setWidth(sc.nextDouble());
 
         System.out.printf("AREA = %.2f%n", rectangle.area());
         System.out.printf("PERIMETER = %.2f%n", rectangle.perimeter());
