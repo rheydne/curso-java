@@ -2,7 +2,7 @@ package S6_EstruturaRepeticao;
 
 import java.util.Scanner;
 
-public class S6_54__ForWhile {
+public class S6_54__DoWhile {
     
     public static void main(String[] args) {
         

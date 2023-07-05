@@ -3,7 +3,7 @@ package S8_ProgramacaoOrientadaAObjetos.S8_70__MembrosEstaticos;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class S6_70__V1MembrosEstaticos {
+public class S8_70__V1MembrosEstaticos {
     
     public static final double PI = 3.14159; // modo de declarar um valor constante (usar o final e o padrao é com nomes todos maiusculos)
     public static void main(String[] args) {
