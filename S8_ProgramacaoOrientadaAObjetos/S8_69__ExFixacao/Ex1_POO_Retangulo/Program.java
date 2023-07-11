@@ -1,9 +1,7 @@
-package S8_ProgramacaoOrientadaAObjetos.S8_69__ExFixacao.Ex1_POO_Retangulo.application;
+package S8_ProgramacaoOrientadaAObjetos.S8_69__ExFixacao.Ex1_POO_Retangulo;
 
 import java.util.Locale;
 import java.util.Scanner;
-
-import S8_ProgramacaoOrientadaAObjetos.S8_69__ExFixacao.Ex1_POO_Retangulo.entities.Rectangle;
 
 public class Program {
     

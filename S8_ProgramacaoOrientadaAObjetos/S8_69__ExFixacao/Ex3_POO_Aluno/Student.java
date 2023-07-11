@@ -1,4 +1,4 @@
-package S8_ProgramacaoOrientadaAObjetos.S8_69__ExFixacao.Ex3_POO_Aluno.entities;
+package S8_ProgramacaoOrientadaAObjetos.S8_69__ExFixacao.Ex3_POO_Aluno;
 
 public class Student {
     

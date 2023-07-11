@@ -1,9 +1,7 @@
-package S9_Construtores_This_Sobrecarga_Encapsulamento.S9_75__Construtores.application;
+package S9_Construtores_This_Sobrecarga_Encapsulamento.S9_77__Sobrecarga;
 
 import java.util.Locale;
 import java.util.Scanner;
-
-import S9_Construtores_This_Sobrecarga_Encapsulamento.S9_75__Construtores.entities.Product;
 
 public class Program {
     
@@ -23,10 +21,12 @@ public class Program {
         String name = sc.nextLine();
         System.out.print("Valor: ");
         double price = sc.nextDouble();
-        System.out.print("Quantidade: ");
-        int quantity = sc.nextInt();
+        // System.out.print("Quantidade: ");
+        // int quantity = sc.nextInt();
 
-        Product product = new Product(name, price, quantity);
+        // Product product = new Product(name, price, quantity);
+
+        Product product = new Product(name, price);
 
         System.out.printf("%nProduct Data: %s%n%n", product.toString());
 

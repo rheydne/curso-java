@@ -1,9 +1,7 @@
-package S8_ProgramacaoOrientadaAObjetos.S8_64__ProbComOrientacaoObjeto.application;
+package S8_ProgramacaoOrientadaAObjetos.S8_64__ProbComOrientacaoObjeto;
 
 import java.util.Locale;
 import java.util.Scanner;
-
-import S8_ProgramacaoOrientadaAObjetos.S8_64__ProbComOrientacaoObjeto.entities.Triangle;
 
 public class Program {
     

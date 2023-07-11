@@ -1,9 +1,7 @@
-package S8_ProgramacaoOrientadaAObjetos.S8_69__ExFixacao.Ex2_POO_Funcionario.application;
+package S8_ProgramacaoOrientadaAObjetos.S8_69__ExFixacao.Ex2_POO_Funcionario;
 
 import java.util.Locale;
 import java.util.Scanner;
-
-import S8_ProgramacaoOrientadaAObjetos.S8_69__ExFixacao.Ex2_POO_Funcionario.entities.Employee;
 
 public class Program {
     

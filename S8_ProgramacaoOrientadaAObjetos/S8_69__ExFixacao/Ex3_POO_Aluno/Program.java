@@ -1,9 +1,7 @@
-package S8_ProgramacaoOrientadaAObjetos.S8_69__ExFixacao.Ex3_POO_Aluno.application;
+package S8_ProgramacaoOrientadaAObjetos.S8_69__ExFixacao.Ex3_POO_Aluno;
 
 import java.util.Locale;
 import java.util.Scanner;
-
-import S8_ProgramacaoOrientadaAObjetos.S8_69__ExFixacao.Ex3_POO_Aluno.entities.Student;
 
 public class Program {
     

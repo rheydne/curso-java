@@ -1,4 +1,4 @@
-package S8_ProgramacaoOrientadaAObjetos.S8_70__MembrosEstaticos.S8_70__V2MembrosEstaticos.util;
+package S8_ProgramacaoOrientadaAObjetos.S8_70__MembrosEstaticos.S8_70__V2MembrosEstaticos;
 
 public class Calculator {
 

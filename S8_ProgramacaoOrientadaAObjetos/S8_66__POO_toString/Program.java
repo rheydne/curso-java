@@ -1,9 +1,7 @@
-package S8_ProgramacaoOrientadaAObjetos.S8_66__POO_toString.application;
+package S8_ProgramacaoOrientadaAObjetos.S8_66__POO_toString;
 
 import java.util.Locale;
 import java.util.Scanner;
-
-import S8_ProgramacaoOrientadaAObjetos.S8_66__POO_toString.entities.Product;
 
 public class Program {
     

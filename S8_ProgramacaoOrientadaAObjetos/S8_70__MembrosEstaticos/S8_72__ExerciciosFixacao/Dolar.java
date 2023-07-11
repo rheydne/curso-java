@@ -1,4 +1,4 @@
-package S8_ProgramacaoOrientadaAObjetos.S8_70__MembrosEstaticos.S8_72__ExerciciosFixacao.util;
+package S8_ProgramacaoOrientadaAObjetos.S8_70__MembrosEstaticos.S8_72__ExerciciosFixacao;
 
 public class Dolar {
     

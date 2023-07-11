@@ -1,4 +1,4 @@
-package S8_ProgramacaoOrientadaAObjetos.S8_64__ProbComOrientacaoObjeto.entities;
+package S8_ProgramacaoOrientadaAObjetos.S8_64__ProbComOrientacaoObjeto;
 
 public class Triangle {
     

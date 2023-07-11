@@ -1,4 +1,4 @@
-package S8_ProgramacaoOrientadaAObjetos.S8_66__POO_toString.entities;
+package S9_Construtores_This_Sobrecarga_Encapsulamento.S9_78__Encapsulamento;
 
 public class Product {
     
@@ -6,52 +6,19 @@ public class Product {
     double price;
     int quantity;
 
-    public Product() {
-    }
-
+    // sobrecarga das duas funcoes Product
+    // significa que as duas tem o mesmo nome, mas atributos diferentes 
+    // dessa forma o programa identifica qual funcao voce deseja acessar pelos atributos que voce vai fornecer
     public Product(String name, double price, int quantity) {
         this.name = name;
         this.price = price;
         this.quantity = quantity;
     }
 
-    public String getName() {
-        return this.name;
-    }
-
-    public void setName(String name) {
+    public Product(String name, double price) {
         this.name = name;
-    }
-
-    public double getPrice() {
-        return this.price;
-    }
-
-    public void setPrice(double price) {
         this.price = price;
-    }
-
-    public int getQuantity() {
-        return this.quantity;
-    }
-
-    public void setQuantity(int quantity) {
-        this.quantity = quantity;
-    }
-
-    public Product name(String name) {
-        setName(name);
-        return this;
-    }
-
-    public Product price(double price) {
-        setPrice(price);
-        return this;
-    }
-
-    public Product quantity(int quantity) {
-        setQuantity(quantity);
-        return this;
+        this.quantity = 0;
     }
 
     public double totalValueInStock() {
@@ -76,3 +43,4 @@ public class Product {
             + String.format("%.2f", totalValueInStock());
     }
 }
+

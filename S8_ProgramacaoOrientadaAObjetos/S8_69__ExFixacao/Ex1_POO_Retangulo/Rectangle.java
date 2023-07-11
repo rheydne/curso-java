@@ -1,4 +1,4 @@
-package S8_ProgramacaoOrientadaAObjetos.S8_69__ExFixacao.Ex1_POO_Retangulo.entities;
+package S8_ProgramacaoOrientadaAObjetos.S8_69__ExFixacao.Ex1_POO_Retangulo;
 
 public class Rectangle {
 

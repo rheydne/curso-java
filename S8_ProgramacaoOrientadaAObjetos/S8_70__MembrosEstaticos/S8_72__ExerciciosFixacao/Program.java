@@ -1,9 +1,7 @@
-package S8_ProgramacaoOrientadaAObjetos.S8_70__MembrosEstaticos.S8_72__ExerciciosFixacao.application;
+package S8_ProgramacaoOrientadaAObjetos.S8_70__MembrosEstaticos.S8_72__ExerciciosFixacao;
 
 import java.util.Locale;
 import java.util.Scanner;
-
-import S8_ProgramacaoOrientadaAObjetos.S8_70__MembrosEstaticos.S8_72__ExerciciosFixacao.util.Dolar;
 
 public class Program {
     

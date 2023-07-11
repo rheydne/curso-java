@@ -1,4 +1,4 @@
-package S8_ProgramacaoOrientadaAObjetos.S8_69__ExFixacao.Ex2_POO_Funcionario.entities;
+package S8_ProgramacaoOrientadaAObjetos.S8_69__ExFixacao.Ex2_POO_Funcionario;
 
 public class Employee {
     

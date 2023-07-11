@@ -1,9 +1,7 @@
-package S8_ProgramacaoOrientadaAObjetos.S8_70__MembrosEstaticos.S8_71__V3MembrosEstaticos.application;
+package S8_ProgramacaoOrientadaAObjetos.S8_70__MembrosEstaticos.S8_71__V3MembrosEstaticos;
 
 import java.util.Locale;
 import java.util.Scanner;
-
-import S8_ProgramacaoOrientadaAObjetos.S8_70__MembrosEstaticos.S8_71__V3MembrosEstaticos.util.Calculator;
 
 public class Program {
     public static void main(String[] args) {
